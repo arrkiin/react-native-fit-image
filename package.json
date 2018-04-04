@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fit-image",
+  "name": "@arrkiin/react-native-fit-image",
   "version": "1.5.4",
   "description": "Responsive image component to fit perfectly itself.",
   "main": "dist/FitImage.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huiseoul/react-native-fit-image.git"
+    "url": "git+https://github.com/arrkiin/react-native-fit-image.git"
   },
   "keywords": [
     "React",
@@ -25,9 +25,9 @@
   "author": "Jitae Kim <originerd@gmail.com> (http://originerd.com)",
   "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/huiseoul/react-native-fit-image/issues"
+    "url": "https://github.com/arrkiin/react-native-fit-image/issues"
   },
-  "homepage": "https://github.com/huiseoul/react-native-fit-image#readme",
+  "homepage": "https://github.com/arrkiin/react-native-fit-image#readme",
   "dependencies": {
     "prop-types": "^15.5.10"
   },
